@@ -1,1 +1,1 @@
-Chapter one lab code files.
+Lab files for Creating WebAssembly Modules from Scratch.
